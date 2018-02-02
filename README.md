@@ -1,2 +1,2 @@
 # rcttest
-RCT connect test 001
+RCT connect test 002
