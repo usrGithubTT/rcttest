@@ -24,7 +24,7 @@
 # NOTE: modifying ignore files will not change the ignore status of 
 #     Eclipse derived resources.
 
-core.ignore.recursive= \	
-	{.git} 
+core.ignore.recursive=
 
-core.ignore= 
+core.ignore= \
+	{\.git}
